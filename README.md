@@ -1,2 +1,2 @@
 # TicketScanningAPP
-Project i did with a friend for a party.
+Project i did with a friend @AurasV 
